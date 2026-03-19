@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Photoshop temp files
+~*
+
+# Crash logs
+crash.log
